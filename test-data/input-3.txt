@@ -1,0 +1,4 @@
+#test for guaranteed failure
+GT4500,1,1,0,0
+TORPEDO,SINGLE
+EXIT

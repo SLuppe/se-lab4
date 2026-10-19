@@ -1,0 +1,4 @@
+#test for empty ship
+GT4500,0,0.0,0,0.0
+TORPEDO,SINGLE
+EXIT
