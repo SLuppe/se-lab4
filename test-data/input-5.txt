@@ -1,0 +1,5 @@
+#shooting the different containers one-by-one
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
+EXIT
